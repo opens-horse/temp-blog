@@ -24,12 +24,11 @@ Companies that use open source:
 
 Projects that use open source:
   - [GNU](https://en.wikipedia.org/wiki/GNU) + [Linux](https://en.wikipedia.org/wiki/Linux)
-   <img alt="Tux, the mascot of Linux. He's a penguin." src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="100" align="right">
   - [GIMP](https://www.gimp.org/), a photoshop alternative.
   - [Marlin](https://marlinfw.org), the 3D printer firmware.
   - [*<font color="#7f7f7f">Thousands more...</font>*](https://github.com)
 	- [*<font color="#7f7f7f">and more!</font>*](https://codeberg.org/explore/repos)
-
+<img alt="Tux, the mascot of Linux. He's a penguin." src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="100" align="right">
 There's more benefit than just being able to vet the code of a corporation when they use open source. Their use of open source allows hobbyists and otherwise impassioned developers to improve the tools and platforms they rely on in their workflows and everyday lives. It allows them to modify the projects to their liking and occasionally to the liking of others as a fork. It brings what could otherwise be a locked-down experience into the hands of the people who experience it. In a sense, the end-users are just the beginning.
 - - -
 Bonus content:
